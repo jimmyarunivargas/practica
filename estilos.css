@@ -1,0 +1,10 @@
+.foto{
+    width: 10%;
+    height: 100px;
+    padding-left: 50px;
+    box-sizing: border-box;
+}
+.body.h1{
+    text-align: center;
+    text-justify: auto;
+}
